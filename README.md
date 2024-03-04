@@ -11,7 +11,7 @@
 
 ## Sobre mi
 
-- ⭐ Programo desde hace 14 años.
+- ⭐ Tengo 18 años. Programo desde hace 17 años.
 - 📲 Me especializo en Frontend.
 - 🎥 Enseño en Coderhouse los cursos de React Js, Javascript y Desarrollo Web.
 - ✏️ Cree cursos, fui profesor e hice mentorías en Alkemy, Digital House, Rolling Code, Educación IT, Guayerd, BlockAcademy.
