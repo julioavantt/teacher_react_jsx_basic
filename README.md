@@ -30,7 +30,10 @@
 ## Repos y videos útiles.
 
 - [Cómo instalar Vite](https://www.youtube.com/watch?v=jcKoP-FvPsY&ab_channel=JuniorPride)
+- [GIT y GITHUB en 7 minutos](https://www.youtube.com/watch?v=pSU7HIHN4Iw&t=43s&ab_channel=JuniorPride)
+- [PRETTIER PRO](https://www.youtube.com/watch?v=J82zzv_2RPc&t=345s&ab_channel=JuniorPride)
 - [React createElement](https://github.com/julioavantt/teacher_react_create_element)
+- [Lista de reproducción sobre VSCODE](https://www.youtube.com/watch?v=J82zzv_2RPc&list=PLG2TTAOwfN5-UnGx6o1u-pQ5P1BSImoBQ&ab_channel=JuniorPride)
 
 <br>
 
